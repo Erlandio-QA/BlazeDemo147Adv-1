@@ -1,4 +1,4 @@
-// export default class PurchasePage {
+//export default class PurchasePage {
 class PurchasePage {
     constructor(page){
         this.page = page

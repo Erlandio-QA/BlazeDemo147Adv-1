@@ -1,4 +1,4 @@
-// export default class ConfirmationPage{
+//export default class ConfirmationPage{
 class ConfirmationPage {
     constructor(page){
         this.page = page

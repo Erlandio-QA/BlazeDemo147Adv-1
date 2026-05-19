@@ -47,10 +47,18 @@ Em um projeto com Gherkin, cada teste é composto por um arquivo .feature + um a
 Dependencias removidas:
  "@types/node": "^25.5.2",
  "playwright-bdd": "^8.5.0"
-
+ npm run test:bdd
 
 
  Diferenças de sintaxe conforme o type definido no package.json
 
  commonjs --> const ... = require('...')
  module   --> import ... from ...
+
+ Execução sincrona
+  Uma parte espera a outra (sem async/await)
+ Execucao assincrona
+  A parte emissora nao espera (com async/await)
+
+      playwright --> controla o browser --> (msg especifica, mas que pode explicar a causa)
+      cucumberJS --> organizacao -->timeout (mensagem generica que nao vai explicar a causa)

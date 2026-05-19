@@ -2,7 +2,7 @@ const { Given, When, Then } = require('@cucumber/cucumber')
 const { expect } = require('@playwright/test')
 
 // import { Given, When, Then, And } from '@cucumber/cucumber'
-// import this.homePage from '../pages/home.page'
+// import HomePage from '../pages/home.page'
 // import ReservePage from '../pages/reserve.page'
 // import PurchasePage from '../pages/purchase.page'
 // import ConfirmationPage from '../pages/confirmation.page'
@@ -37,8 +37,8 @@ Then('verifico o texto {string}', async function (mensagem_origem_destino) {
     await this.reservePage.verificar_titulo(mensagem_origem_destino)
 });
 
-Then('verifico se a url contem {string}', async function (pagina) {
-    expect(this.page).toHaveURL(`/${pagina}\.php/`)
+Then('verifico se a url contem {string}', function (pagina) {
+    expect(this.page).toHaveURL(`/${pagina}\.php`)
 });
 
 
@@ -63,10 +63,10 @@ When('marco a opcao {string}', async function (string) {
 });
 
 
-When('clico no botao {string}', async function (string) {
-    // Não estamos usando o parametro que é recebido neste bloco
-    await this.purchasePage.comprar_passagem()
-});
+// When('clico no botao {string}', async function (string) {
+//     // Não estamos usando o parametro que é recebido neste bloco
+//     await this.purchasePage.comprar_passagem()
+// });
 
 
 
