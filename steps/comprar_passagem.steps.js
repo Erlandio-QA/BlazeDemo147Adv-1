@@ -38,7 +38,7 @@ Then('verifico o texto {string}', async function (mensagem_origem_destino) {
 });
 
 Then('verifico se a url contem {string}', async function (pagina) {
-     expect(this.page).toHaveURL(`/${pagina}\.php/`)
+    await expect(this.page).toHaveURL(`/${pagina}\.php`)
 });
 
 
@@ -63,10 +63,10 @@ When('marco a opcao {string}', async function (string) {
 });
 
 
-When('clico no botao {string}', async function (string) {
-    // Não estamos usando o parametro que é recebido neste bloco
-    await this.purchasePage.comprar_passagem()
-});
+// When('clico no botao {string}', async function (string) {
+//     // Não estamos usando o parametro que é recebido neste bloco
+//     await this.purchasePage.comprar_passagem()
+// });
 
 
 
