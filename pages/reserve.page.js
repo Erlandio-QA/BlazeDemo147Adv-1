@@ -41,6 +41,9 @@ class ReservePage {
     }
 
    
+   
 }
+
+module.exports = ReservePage
 
 module.exports = ReservePage

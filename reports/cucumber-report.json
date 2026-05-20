@@ -25,6 +25,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:10"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:10"
+            },
             "result": {
               "status": "passed",
               "duration": 6164879100
@@ -35,6 +38,9 @@
             "keyword": "Quando ",
             "line": 5,
             "name": "seleciono a origem como \"São Paolo\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:15"
+            },
             "match": {
               "location": "steps\\comprar_passagem.steps.js:15"
             },
@@ -51,6 +57,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:19"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:19"
+            },
             "result": {
               "status": "passed",
               "duration": 10965799
@@ -60,6 +69,10 @@
             "arguments": [],
             "keyword": "E ",
             "line": 7,
+            "name": "clico no botao",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:30"
+            },
             "name": "clico no botao",
             "match": {
               "location": "steps\\comprar_passagem.steps.js:30"
@@ -77,6 +90,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:36"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:36"
+            },
             "result": {
               "status": "passed",
               "duration": 39919600
@@ -86,6 +102,10 @@
             "arguments": [],
             "keyword": "E ",
             "line": 9,
+            "name": "verifico se a url contem \"reserve\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:40"
+            },
             "name": "verifico se a url contem \"reserve\"",
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
@@ -103,6 +123,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:45"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:45"
+            },
             "result": {
               "status": "passed",
               "duration": 1666094599
@@ -113,6 +136,9 @@
             "keyword": "Entao ",
             "line": 11,
             "name": "verifico se a url contem \"purchase\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:40"
+            },
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
             },
@@ -129,6 +155,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:50"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:50"
+            },
             "result": {
               "status": "passed",
               "duration": 33402200
@@ -139,6 +168,9 @@
             "keyword": "E ",
             "line": 13,
             "name": "seleciono a bandeira do cartao como \"amex\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:55"
+            },
             "match": {
               "location": "steps\\comprar_passagem.steps.js:55"
             },
@@ -155,6 +187,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:60"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:60"
+            },
             "result": {
               "status": "passed",
               "duration": 36104999
@@ -165,6 +200,9 @@
             "keyword": "E ",
             "line": 15,
             "name": "clico no botao \"Purchase Flight\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:24"
+            },
             "match": {
               "location": "steps\\comprar_passagem.steps.js:24"
             },
@@ -181,6 +219,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:40"
+            },
             "result": {
               "status": "passed",
               "duration": 1266100
@@ -191,6 +232,9 @@
             "keyword": "E ",
             "line": 17,
             "name": "se exibe a mensagem de agradecimento \"Thank you for your purchase today!\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:73"
+            },
             "match": {
               "location": "steps\\comprar_passagem.steps.js:73"
             },
@@ -228,6 +272,7 @@
         "description": "",
         "id": "compra-de-passagem;compra-com-sucesso-ddt",
         "keyword": "Esquema do Cenario",
+        "keyword": "Esquema do Cenario",
         "line": 39,
         "name": "Compra com Sucesso DDT",
         "steps": [
@@ -247,6 +292,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:10"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:10"
+            },
             "result": {
               "status": "passed",
               "duration": 1480631400
@@ -257,6 +305,9 @@
             "keyword": "Quando ",
             "line": 22,
             "name": "seleciono a origem como \"São Paolo\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:15"
+            },
             "match": {
               "location": "steps\\comprar_passagem.steps.js:15"
             },
@@ -273,6 +324,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:19"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:19"
+            },
             "result": {
               "status": "passed",
               "duration": 5990800
@@ -283,6 +337,9 @@
             "keyword": "E ",
             "line": 24,
             "name": "clico no botao \"Find Flights\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:24"
+            },
             "match": {
               "location": "steps\\comprar_passagem.steps.js:24"
             },
@@ -299,6 +356,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:88"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:88"
+            },
             "result": {
               "status": "passed",
               "duration": 24242600
@@ -308,6 +368,10 @@
             "arguments": [],
             "keyword": "E ",
             "line": 26,
+            "name": "verifico se a url contem \"reserve\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:40"
+            },
             "name": "verifico se a url contem \"reserve\"",
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
@@ -325,6 +389,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:45"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:45"
+            },
             "result": {
               "status": "passed",
               "duration": 367463599
@@ -335,6 +402,9 @@
             "keyword": "Entao ",
             "line": 28,
             "name": "verifico se a url contem \"purchase\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:40"
+            },
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
             },
@@ -351,6 +421,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:50"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:50"
+            },
             "result": {
               "status": "passed",
               "duration": 39056399
@@ -361,6 +434,9 @@
             "keyword": "E ",
             "line": 30,
             "name": "seleciono a bandeira do cartao como \"Visa\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:55"
+            },
             "match": {
               "location": "steps\\comprar_passagem.steps.js:55"
             },
@@ -377,6 +453,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:60"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:60"
+            },
             "result": {
               "status": "passed",
               "duration": 37363000
@@ -387,6 +466,9 @@
             "keyword": "E ",
             "line": 32,
             "name": "clico no botao \"Purchase Flight\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:24"
+            },
             "match": {
               "location": "steps\\comprar_passagem.steps.js:24"
             },
@@ -403,6 +485,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:40"
+            },
             "result": {
               "status": "passed",
               "duration": 1486500
@@ -413,6 +498,9 @@
             "keyword": "E ",
             "line": 34,
             "name": "se exibe a mensagem de agradecimento \"Thank you for your purchase today!\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:73"
+            },
             "match": {
               "location": "steps\\comprar_passagem.steps.js:73"
             },
@@ -450,6 +538,7 @@
         "description": "",
         "id": "compra-de-passagem;compra-com-sucesso-ddt",
         "keyword": "Esquema do Cenario",
+        "keyword": "Esquema do Cenario",
         "line": 40,
         "name": "Compra com Sucesso DDT",
         "steps": [
@@ -469,6 +558,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:10"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:10"
+            },
             "result": {
               "status": "passed",
               "duration": 1554192900
@@ -479,6 +571,9 @@
             "keyword": "Quando ",
             "line": 22,
             "name": "seleciono a origem como \"Portland\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:15"
+            },
             "match": {
               "location": "steps\\comprar_passagem.steps.js:15"
             },
@@ -495,6 +590,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:19"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:19"
+            },
             "result": {
               "status": "passed",
               "duration": 7340400
@@ -505,6 +603,9 @@
             "keyword": "E ",
             "line": 24,
             "name": "clico no botao \"Find Flights\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:24"
+            },
             "match": {
               "location": "steps\\comprar_passagem.steps.js:24"
             },
@@ -521,6 +622,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:88"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:88"
+            },
             "result": {
               "status": "passed",
               "duration": 33139699
@@ -530,6 +634,10 @@
             "arguments": [],
             "keyword": "E ",
             "line": 26,
+            "name": "verifico se a url contem \"reserve\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:40"
+            },
             "name": "verifico se a url contem \"reserve\"",
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
@@ -547,6 +655,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:45"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:45"
+            },
             "result": {
               "status": "passed",
               "duration": 1212321599
@@ -557,6 +668,9 @@
             "keyword": "Entao ",
             "line": 28,
             "name": "verifico se a url contem \"purchase\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:40"
+            },
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
             },
@@ -573,6 +687,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:50"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:50"
+            },
             "result": {
               "status": "passed",
               "duration": 49723999
@@ -583,6 +700,9 @@
             "keyword": "E ",
             "line": 30,
             "name": "seleciono a bandeira do cartao como \"American Express\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:55"
+            },
             "match": {
               "location": "steps\\comprar_passagem.steps.js:55"
             },
@@ -599,6 +719,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:60"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:60"
+            },
             "result": {
               "status": "passed",
               "duration": 55739399
@@ -609,6 +732,9 @@
             "keyword": "E ",
             "line": 32,
             "name": "clico no botao \"Purchase Flight\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:24"
+            },
             "match": {
               "location": "steps\\comprar_passagem.steps.js:24"
             },
@@ -625,6 +751,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:40"
+            },
             "result": {
               "status": "passed",
               "duration": 1126299
@@ -635,6 +764,9 @@
             "keyword": "E ",
             "line": 34,
             "name": "se exibe a mensagem de agradecimento \"Thank you for your purchase today!\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:73"
+            },
             "match": {
               "location": "steps\\comprar_passagem.steps.js:73"
             },
@@ -672,6 +804,7 @@
         "description": "",
         "id": "compra-de-passagem;compra-com-sucesso-ddt",
         "keyword": "Esquema do Cenario",
+        "keyword": "Esquema do Cenario",
         "line": 41,
         "name": "Compra com Sucesso DDT",
         "steps": [
@@ -691,6 +824,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:10"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:10"
+            },
             "result": {
               "status": "passed",
               "duration": 2715315699
@@ -701,6 +837,9 @@
             "keyword": "Quando ",
             "line": 22,
             "name": "seleciono a origem como \"Boston\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:15"
+            },
             "match": {
               "location": "steps\\comprar_passagem.steps.js:15"
             },
@@ -717,6 +856,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:19"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:19"
+            },
             "result": {
               "status": "passed",
               "duration": 10322499
@@ -727,6 +869,9 @@
             "keyword": "E ",
             "line": 24,
             "name": "clico no botao \"Find Flights\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:24"
+            },
             "match": {
               "location": "steps\\comprar_passagem.steps.js:24"
             },
@@ -743,6 +888,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:88"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:88"
+            },
             "result": {
               "status": "passed",
               "duration": 33765499
@@ -752,6 +900,10 @@
             "arguments": [],
             "keyword": "E ",
             "line": 26,
+            "name": "verifico se a url contem \"reserve\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:40"
+            },
             "name": "verifico se a url contem \"reserve\"",
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
@@ -769,6 +921,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:45"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:45"
+            },
             "result": {
               "status": "passed",
               "duration": 1722596900
@@ -779,6 +934,9 @@
             "keyword": "Entao ",
             "line": 28,
             "name": "verifico se a url contem \"purchase\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:40"
+            },
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
             },
@@ -795,6 +953,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:50"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:50"
+            },
             "result": {
               "status": "passed",
               "duration": 36855400
@@ -804,6 +965,10 @@
             "arguments": [],
             "keyword": "E ",
             "line": 30,
+            "name": "seleciono a bandeira do cartao como \"Diner's Club\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:55"
+            },
             "name": "seleciono a bandeira do cartao como \"Diner's Club\"",
             "match": {
               "location": "steps\\comprar_passagem.steps.js:55"
@@ -821,6 +986,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:60"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:60"
+            },
             "result": {
               "status": "passed",
               "duration": 43783200
@@ -831,6 +999,9 @@
             "keyword": "E ",
             "line": 32,
             "name": "clico no botao \"Purchase Flight\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:24"
+            },
             "match": {
               "location": "steps\\comprar_passagem.steps.js:24"
             },
@@ -847,6 +1018,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
             },
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:40"
+            },
             "result": {
               "status": "passed",
               "duration": 791700
@@ -857,6 +1031,9 @@
             "keyword": "E ",
             "line": 34,
             "name": "se exibe a mensagem de agradecimento \"Thank you for your purchase today!\"",
+            "match": {
+              "location": "steps\\comprar_passagem.steps.js:73"
+            },
             "match": {
               "location": "steps\\comprar_passagem.steps.js:73"
             },
