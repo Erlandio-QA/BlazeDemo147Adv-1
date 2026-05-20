@@ -1,0 +1,8 @@
+pedi ao professor para explicar esse projeto hoje 20-5-26
+
+Estruturação
+    Scenários (features): comprar passagem.feature (com ou sem data drive,em gerkin)
+    Steps: (o pastel) - bloco de codigo vindo da feature
+    Pages (mapeamento: recheio do pastel) - localizadores e atributos para cada tela e acoes para cada pagina
+    Support: acoes gerais - abrir e fechar browser
+    Reports

@@ -69,11 +69,9 @@ When('marco a opcao {string}', async function (string) {
 // });
 
 
-
 Then('se exibe a mensagem de agradecimento {string}', async function (string) {
     await expect(this.page.locator(this.confirmationPage.mensagem)).toHaveText('Thank you for your purchase today!')
 });
-
 
 
 Then('se contém a informacao {string} como {string}', async function (quantia, preco) {
