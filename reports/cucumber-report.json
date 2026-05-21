@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 240225499
+              "duration": 2141205599
             }
           },
           {
@@ -25,12 +25,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:10"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:10"
-            },
             "result": {
               "status": "passed",
-              "duration": 6164879100
+              "duration": 14540495500
             }
           },
           {
@@ -41,12 +38,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:15"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:15"
-            },
             "result": {
               "status": "passed",
-              "duration": 10906399
+              "duration": 10243900
             }
           },
           {
@@ -57,12 +51,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:19"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:19"
-            },
             "result": {
               "status": "passed",
-              "duration": 10965799
+              "duration": 17630499
             }
           },
           {
@@ -73,13 +64,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:30"
             },
-            "name": "clico no botao",
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:30"
-            },
             "result": {
               "status": "passed",
-              "duration": 393816799
+              "duration": 1120537700
             }
           },
           {
@@ -90,12 +77,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:36"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:36"
-            },
             "result": {
               "status": "passed",
-              "duration": 39919600
+              "duration": 51351500
             }
           },
           {
@@ -106,13 +90,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
             },
-            "name": "verifico se a url contem \"reserve\"",
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:40"
-            },
             "result": {
               "status": "passed",
-              "duration": 3848299
+              "duration": 7712599
             }
           },
           {
@@ -123,12 +103,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:45"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:45"
-            },
             "result": {
               "status": "passed",
-              "duration": 1666094599
+              "duration": 601729900
             }
           },
           {
@@ -139,12 +116,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:40"
-            },
             "result": {
               "status": "passed",
-              "duration": 783799
+              "duration": 35466500
             }
           },
           {
@@ -155,12 +129,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:50"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:50"
-            },
             "result": {
               "status": "passed",
-              "duration": 33402200
+              "duration": 14759300
             }
           },
           {
@@ -171,12 +142,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:55"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:55"
-            },
             "result": {
               "status": "passed",
-              "duration": 6927900
+              "duration": 5560499
             }
           },
           {
@@ -187,12 +155,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:60"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:60"
-            },
             "result": {
               "status": "passed",
-              "duration": 36104999
+              "duration": 61654500
             }
           },
           {
@@ -203,12 +168,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:24"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:24"
-            },
             "result": {
               "status": "passed",
-              "duration": 1870003499
+              "duration": 1508212400
             }
           },
           {
@@ -219,12 +181,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:40"
-            },
             "result": {
               "status": "passed",
-              "duration": 1266100
+              "duration": 42121800
             }
           },
           {
@@ -235,12 +194,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:73"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:73"
-            },
             "result": {
               "status": "passed",
-              "duration": 33455900
+              "duration": 6998100
             }
           },
           {
@@ -253,7 +209,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 4791999
+              "duration": 5534599
             }
           },
           {
@@ -261,7 +217,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 91438799
+              "duration": 16991399
             }
           }
         ],
@@ -272,7 +228,6 @@
         "description": "",
         "id": "compra-de-passagem;compra-com-sucesso-ddt",
         "keyword": "Esquema do Cenario",
-        "keyword": "Esquema do Cenario",
         "line": 39,
         "name": "Compra com Sucesso DDT",
         "steps": [
@@ -281,7 +236,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 275410299
+              "duration": 276191200
             }
           },
           {
@@ -292,12 +247,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:10"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:10"
-            },
             "result": {
               "status": "passed",
-              "duration": 1480631400
+              "duration": 7498458899
             }
           },
           {
@@ -308,12 +260,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:15"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:15"
-            },
             "result": {
               "status": "passed",
-              "duration": 21274900
+              "duration": 9471399
             }
           },
           {
@@ -324,12 +273,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:19"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:19"
-            },
             "result": {
               "status": "passed",
-              "duration": 5990800
+              "duration": 16489199
             }
           },
           {
@@ -340,12 +286,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:24"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:24"
-            },
             "result": {
               "status": "passed",
-              "duration": 387772399
+              "duration": 691638000
             }
           },
           {
@@ -356,12 +299,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:88"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:88"
-            },
             "result": {
               "status": "passed",
-              "duration": 24242600
+              "duration": 33337499
             }
           },
           {
@@ -372,13 +312,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
             },
-            "name": "verifico se a url contem \"reserve\"",
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:40"
-            },
             "result": {
               "status": "passed",
-              "duration": 954299
+              "duration": 2703999
             }
           },
           {
@@ -389,12 +325,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:45"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:45"
-            },
             "result": {
               "status": "passed",
-              "duration": 367463599
+              "duration": 367069599
             }
           },
           {
@@ -405,12 +338,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:40"
-            },
             "result": {
               "status": "passed",
-              "duration": 1201499
+              "duration": 26778500
             }
           },
           {
@@ -421,12 +351,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:50"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:50"
-            },
             "result": {
               "status": "passed",
-              "duration": 39056399
+              "duration": 13141999
             }
           },
           {
@@ -437,12 +364,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:55"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:55"
-            },
             "result": {
               "status": "passed",
-              "duration": 7048000
+              "duration": 6933100
             }
           },
           {
@@ -453,12 +377,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:60"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:60"
-            },
             "result": {
               "status": "passed",
-              "duration": 37363000
+              "duration": 55228500
             }
           },
           {
@@ -469,12 +390,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:24"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:24"
-            },
             "result": {
               "status": "passed",
-              "duration": 364360600
+              "duration": 534174600
             }
           },
           {
@@ -485,12 +403,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:40"
-            },
             "result": {
               "status": "passed",
-              "duration": 1486500
+              "duration": 38182400
             }
           },
           {
@@ -501,12 +416,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:73"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:73"
-            },
             "result": {
               "status": "passed",
-              "duration": 27099899
+              "duration": 4078900
             }
           },
           {
@@ -519,7 +431,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 8544299
+              "duration": 4924200
             }
           },
           {
@@ -527,7 +439,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 96467599
+              "duration": 12987900
             }
           }
         ],
@@ -538,7 +450,6 @@
         "description": "",
         "id": "compra-de-passagem;compra-com-sucesso-ddt",
         "keyword": "Esquema do Cenario",
-        "keyword": "Esquema do Cenario",
         "line": 40,
         "name": "Compra com Sucesso DDT",
         "steps": [
@@ -547,7 +458,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 338972499
+              "duration": 339090400
             }
           },
           {
@@ -558,12 +469,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:10"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:10"
-            },
             "result": {
               "status": "passed",
-              "duration": 1554192900
+              "duration": 5253512199
             }
           },
           {
@@ -574,12 +482,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:15"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:15"
-            },
             "result": {
               "status": "passed",
-              "duration": 6951499
+              "duration": 8896099
             }
           },
           {
@@ -590,12 +495,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:19"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:19"
-            },
             "result": {
               "status": "passed",
-              "duration": 7340400
+              "duration": 14767699
             }
           },
           {
@@ -606,12 +508,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:24"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:24"
-            },
             "result": {
               "status": "passed",
-              "duration": 344072000
+              "duration": 460183199
             }
           },
           {
@@ -622,12 +521,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:88"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:88"
-            },
             "result": {
               "status": "passed",
-              "duration": 33139699
+              "duration": 35994400
             }
           },
           {
@@ -638,13 +534,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
             },
-            "name": "verifico se a url contem \"reserve\"",
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:40"
-            },
             "result": {
               "status": "passed",
-              "duration": 673800
+              "duration": 2844700
             }
           },
           {
@@ -655,12 +547,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:45"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:45"
-            },
             "result": {
               "status": "passed",
-              "duration": 1212321599
+              "duration": 504447699
             }
           },
           {
@@ -671,12 +560,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:40"
-            },
             "result": {
               "status": "passed",
-              "duration": 792199
+              "duration": 22459100
             }
           },
           {
@@ -687,12 +573,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:50"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:50"
-            },
             "result": {
               "status": "passed",
-              "duration": 49723999
+              "duration": 9991600
             }
           },
           {
@@ -703,12 +586,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:55"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:55"
-            },
             "result": {
               "status": "passed",
-              "duration": 29695800
+              "duration": 8688699
             }
           },
           {
@@ -719,12 +599,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:60"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:60"
-            },
             "result": {
               "status": "passed",
-              "duration": 55739399
+              "duration": 35002899
             }
           },
           {
@@ -735,12 +612,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:24"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:24"
-            },
             "result": {
               "status": "passed",
-              "duration": 406644499
+              "duration": 575875299
             }
           },
           {
@@ -751,12 +625,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:40"
-            },
             "result": {
               "status": "passed",
-              "duration": 1126299
+              "duration": 34496899
             }
           },
           {
@@ -767,12 +638,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:73"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:73"
-            },
             "result": {
               "status": "passed",
-              "duration": 135656100
+              "duration": 4411500
             }
           },
           {
@@ -785,7 +653,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3575699
+              "duration": 4234400
             }
           },
           {
@@ -793,7 +661,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 109542499
+              "duration": 7523999
             }
           }
         ],
@@ -804,7 +672,6 @@
         "description": "",
         "id": "compra-de-passagem;compra-com-sucesso-ddt",
         "keyword": "Esquema do Cenario",
-        "keyword": "Esquema do Cenario",
         "line": 41,
         "name": "Compra com Sucesso DDT",
         "steps": [
@@ -813,7 +680,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 270731299
+              "duration": 282836499
             }
           },
           {
@@ -824,12 +691,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:10"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:10"
-            },
             "result": {
               "status": "passed",
-              "duration": 2715315699
+              "duration": 4487616999
             }
           },
           {
@@ -840,12 +704,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:15"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:15"
-            },
             "result": {
               "status": "passed",
-              "duration": 8002799
+              "duration": 9882900
             }
           },
           {
@@ -856,12 +717,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:19"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:19"
-            },
             "result": {
               "status": "passed",
-              "duration": 10322499
+              "duration": 20168700
             }
           },
           {
@@ -872,12 +730,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:24"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:24"
-            },
             "result": {
               "status": "passed",
-              "duration": 729105100
+              "duration": 371338700
             }
           },
           {
@@ -888,12 +743,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:88"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:88"
-            },
             "result": {
               "status": "passed",
-              "duration": 33765499
+              "duration": 32419899
             }
           },
           {
@@ -904,13 +756,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
             },
-            "name": "verifico se a url contem \"reserve\"",
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:40"
-            },
             "result": {
               "status": "passed",
-              "duration": 939800
+              "duration": 4567300
             }
           },
           {
@@ -921,12 +769,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:45"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:45"
-            },
             "result": {
               "status": "passed",
-              "duration": 1722596900
+              "duration": 486168799
             }
           },
           {
@@ -937,12 +782,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:40"
-            },
             "result": {
               "status": "passed",
-              "duration": 1359199
+              "duration": 25184399
             }
           },
           {
@@ -953,12 +795,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:50"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:50"
-            },
             "result": {
               "status": "passed",
-              "duration": 36855400
+              "duration": 8033599
             }
           },
           {
@@ -969,13 +808,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:55"
             },
-            "name": "seleciono a bandeira do cartao como \"Diner's Club\"",
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:55"
-            },
             "result": {
               "status": "passed",
-              "duration": 7153899
+              "duration": 5970399
             }
           },
           {
@@ -986,12 +821,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:60"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:60"
-            },
             "result": {
               "status": "passed",
-              "duration": 43783200
+              "duration": 41774199
             }
           },
           {
@@ -1002,12 +834,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:24"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:24"
-            },
             "result": {
               "status": "passed",
-              "duration": 683207899
+              "duration": 578445199
             }
           },
           {
@@ -1018,12 +847,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:40"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:40"
-            },
             "result": {
               "status": "passed",
-              "duration": 791700
+              "duration": 34254199
             }
           },
           {
@@ -1034,12 +860,9 @@
             "match": {
               "location": "steps\\comprar_passagem.steps.js:73"
             },
-            "match": {
-              "location": "steps\\comprar_passagem.steps.js:73"
-            },
             "result": {
               "status": "passed",
-              "duration": 34078700
+              "duration": 3066100
             }
           },
           {
@@ -1052,7 +875,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3939500
+              "duration": 5309199
             }
           },
           {
@@ -1060,7 +883,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 110789499
+              "duration": 8514800
             }
           }
         ],
