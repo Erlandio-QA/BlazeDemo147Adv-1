@@ -8,8 +8,8 @@ const { expect } = require('@playwright/test')
 // import this.confirmationPage from '../pages/confirmation.page'
  
 Given('que estou no site Blazedemo', async function () {
-    await this.page.goto(this.homePage.url)                     // abre o browser neste endereço
-    await this.homePage.verificar_mensagem_boas_vindas()   // confirma se aparece a mensagem inicial
+    await this.page.goto(this.homePage.url) // abre o browser neste endereço
+    await this.homePage.verificar_mensagem_boas_vindas() // confirma se aparece a mensagem inicial
 });
  
 When('seleciono a origem como {string}', async function (origem) {
@@ -40,8 +40,7 @@ Then('verifico o texto {string}', async function (mensagem_origem_destino) {
 Then('verifico se a url contem {string}', async function (pagina) {
     await expect(this.page).toHaveURL(`/${pagina}\.php`)
 });
- 
- 
+  
 When('seleciono o voo {string} da companhia {string}', async function (voo, companhia) {
     await this.reservePage.selecionar_voo(voo, companhia)
 })
@@ -50,13 +49,11 @@ When('seleciono o voo {string} da companhia {string}', async function (voo, comp
 When('preencho o nome como {string}', async function (nome) {
     await this.purchasePage.preencher_nome(nome)
 });
- 
- 
+  
 When('seleciono a bandeira do cartao como {string}', async function (bandeira) {
     await this.purchasePage.selecionar_bandeira(bandeira)
 });
- 
- 
+  
 When('marco a opcao {string}', async function (string) {
     // Não estamos usando o parametro que é recebido neste bloco
     await this.purchasePage.marcar_lembrete()
@@ -69,12 +66,10 @@ When('marco a opcao {string}', async function (string) {
 // });
  
  
- 
 Then('se exibe a mensagem de agradecimento {string}', async function (string) {
     await expect(this.page.locator(this.confirmationPage.mensagem)).toHaveText('Thank you for your purchase today!')
 });
- 
- 
+  
  
 Then('se contém a informacao {string} como {string}', async function (quantia, preco) {
     // encontra a linha em que está escrita a quantia / "Amount"

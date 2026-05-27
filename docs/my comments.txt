@@ -1,3 +1,6 @@
+Inicio projeto:
+    npm init playwright@latest
+
 pedi ao professor para explicar esse projeto hoje 20-5-26
 
 Estruturação
@@ -6,3 +9,10 @@ Estruturação
     Pages (mapeamento: recheio do pastel) - localizadores e atributos para cada tela e acoes para cada pagina
     Support: acoes gerais - abrir e fechar browser
     Reports
+
+novo comenando para execucao do npx
+
+Aula 5/25/26
+cucumber-js -p parelelo
+base - World
+
