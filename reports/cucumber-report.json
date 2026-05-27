@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 2567004399
+              "duration": 329411600
             }
           },
           {
@@ -26,9 +26,8 @@
               "location": "steps\\comprar_passagem.steps.js:10"
             },
             "result": {
-              "status": "failed",
-              "duration": 5076000,
-              "error_message": "TypeError: Cannot read properties of undefined (reading 'url')\n    at Base.<anonymous> (C:\\Users\\Erlla\\OneDrive\\Documents\\QA\\BlazeDemo147ADV-1\\BlazeDemo147Adv\\steps\\comprar_passagem.steps.js:11:40)"
+              "status": "passed",
+              "duration": 2028824299
             }
           },
           {
@@ -40,8 +39,8 @@
               "location": "steps\\comprar_passagem.steps.js:15"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 17109300
             }
           },
           {
@@ -53,8 +52,8 @@
               "location": "steps\\comprar_passagem.steps.js:19"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 15651600
             }
           },
           {
@@ -66,8 +65,8 @@
               "location": "steps\\comprar_passagem.steps.js:30"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 1155725200
             }
           },
           {
@@ -79,8 +78,8 @@
               "location": "steps\\comprar_passagem.steps.js:36"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 57524000
             }
           },
           {
@@ -92,8 +91,8 @@
               "location": "steps\\comprar_passagem.steps.js:40"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 8507499
             }
           },
           {
@@ -105,8 +104,8 @@
               "location": "steps\\comprar_passagem.steps.js:44"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 475931400
             }
           },
           {
@@ -118,8 +117,8 @@
               "location": "steps\\comprar_passagem.steps.js:40"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 38114700
             }
           },
           {
@@ -131,8 +130,8 @@
               "location": "steps\\comprar_passagem.steps.js:49"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 120087700
             }
           },
           {
@@ -144,8 +143,8 @@
               "location": "steps\\comprar_passagem.steps.js:53"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 8910800
             }
           },
           {
@@ -157,8 +156,8 @@
               "location": "steps\\comprar_passagem.steps.js:57"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 50047100
             }
           },
           {
@@ -170,8 +169,8 @@
               "location": "steps\\comprar_passagem.steps.js:24"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 385779000
             }
           },
           {
@@ -183,8 +182,8 @@
               "location": "steps\\comprar_passagem.steps.js:40"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 51661000
             }
           },
           {
@@ -196,8 +195,8 @@
               "location": "steps\\comprar_passagem.steps.js:69"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 8115499
             }
           },
           {
@@ -209,8 +208,8 @@
               "location": "steps\\comprar_passagem.steps.js:74"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 9764000
             }
           },
           {
@@ -218,7 +217,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 20545699
+              "duration": 16850399
             }
           }
         ],
@@ -237,7 +236,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 322431499
+              "duration": 389396299
             }
           },
           {
@@ -249,9 +248,8 @@
               "location": "steps\\comprar_passagem.steps.js:10"
             },
             "result": {
-              "status": "failed",
-              "duration": 381700,
-              "error_message": "TypeError: Cannot read properties of undefined (reading 'url')\n    at Base.<anonymous> (C:\\Users\\Erlla\\OneDrive\\Documents\\QA\\BlazeDemo147ADV-1\\BlazeDemo147Adv\\steps\\comprar_passagem.steps.js:11:40)"
+              "status": "passed",
+              "duration": 1706814100
             }
           },
           {
@@ -263,8 +261,8 @@
               "location": "steps\\comprar_passagem.steps.js:15"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 8837500
             }
           },
           {
@@ -276,8 +274,8 @@
               "location": "steps\\comprar_passagem.steps.js:19"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 13323300
             }
           },
           {
@@ -289,8 +287,8 @@
               "location": "steps\\comprar_passagem.steps.js:24"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 832177200
             }
           },
           {
@@ -302,8 +300,8 @@
               "location": "steps\\comprar_passagem.steps.js:83"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 35794400
             }
           },
           {
@@ -315,8 +313,8 @@
               "location": "steps\\comprar_passagem.steps.js:40"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 2894700
             }
           },
           {
@@ -328,8 +326,8 @@
               "location": "steps\\comprar_passagem.steps.js:44"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 1445186799
             }
           },
           {
@@ -341,8 +339,8 @@
               "location": "steps\\comprar_passagem.steps.js:40"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 29163700
             }
           },
           {
@@ -354,8 +352,8 @@
               "location": "steps\\comprar_passagem.steps.js:49"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 14655700
             }
           },
           {
@@ -367,8 +365,8 @@
               "location": "steps\\comprar_passagem.steps.js:53"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 11569600
             }
           },
           {
@@ -380,8 +378,8 @@
               "location": "steps\\comprar_passagem.steps.js:57"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 47878600
             }
           },
           {
@@ -393,8 +391,8 @@
               "location": "steps\\comprar_passagem.steps.js:24"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 497924199
             }
           },
           {
@@ -406,8 +404,8 @@
               "location": "steps\\comprar_passagem.steps.js:40"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 23817799
             }
           },
           {
@@ -419,8 +417,8 @@
               "location": "steps\\comprar_passagem.steps.js:69"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 6042100
             }
           },
           {
@@ -432,8 +430,8 @@
               "location": "steps\\comprar_passagem.steps.js:74"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 4842700
             }
           },
           {
@@ -441,7 +439,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 6754399
+              "duration": 7009899
             }
           }
         ],
@@ -460,7 +458,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 278152599
+              "duration": 310553200
             }
           },
           {
@@ -472,9 +470,8 @@
               "location": "steps\\comprar_passagem.steps.js:10"
             },
             "result": {
-              "status": "failed",
-              "duration": 305100,
-              "error_message": "TypeError: Cannot read properties of undefined (reading 'url')\n    at Base.<anonymous> (C:\\Users\\Erlla\\OneDrive\\Documents\\QA\\BlazeDemo147ADV-1\\BlazeDemo147Adv\\steps\\comprar_passagem.steps.js:11:40)"
+              "status": "passed",
+              "duration": 2431740499
             }
           },
           {
@@ -486,8 +483,8 @@
               "location": "steps\\comprar_passagem.steps.js:15"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 12595599
             }
           },
           {
@@ -499,8 +496,8 @@
               "location": "steps\\comprar_passagem.steps.js:19"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 7093699
             }
           },
           {
@@ -512,8 +509,8 @@
               "location": "steps\\comprar_passagem.steps.js:24"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 553735400
             }
           },
           {
@@ -525,8 +522,8 @@
               "location": "steps\\comprar_passagem.steps.js:83"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 37916700
             }
           },
           {
@@ -538,8 +535,8 @@
               "location": "steps\\comprar_passagem.steps.js:40"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 2456200
             }
           },
           {
@@ -551,8 +548,8 @@
               "location": "steps\\comprar_passagem.steps.js:44"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 498314599
             }
           },
           {
@@ -564,8 +561,8 @@
               "location": "steps\\comprar_passagem.steps.js:40"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 26474700
             }
           },
           {
@@ -577,8 +574,8 @@
               "location": "steps\\comprar_passagem.steps.js:49"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 14217199
             }
           },
           {
@@ -590,8 +587,8 @@
               "location": "steps\\comprar_passagem.steps.js:53"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 9564699
             }
           },
           {
@@ -603,8 +600,8 @@
               "location": "steps\\comprar_passagem.steps.js:57"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 48844399
             }
           },
           {
@@ -616,8 +613,8 @@
               "location": "steps\\comprar_passagem.steps.js:24"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 425163300
             }
           },
           {
@@ -629,8 +626,8 @@
               "location": "steps\\comprar_passagem.steps.js:40"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 28798399
             }
           },
           {
@@ -642,8 +639,8 @@
               "location": "steps\\comprar_passagem.steps.js:69"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 4927700
             }
           },
           {
@@ -655,8 +652,8 @@
               "location": "steps\\comprar_passagem.steps.js:74"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 8300800
             }
           },
           {
@@ -664,7 +661,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 4442800
+              "duration": 7078600
             }
           }
         ],
@@ -683,7 +680,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 311698899
+              "duration": 331209800
             }
           },
           {
@@ -695,9 +692,8 @@
               "location": "steps\\comprar_passagem.steps.js:10"
             },
             "result": {
-              "status": "failed",
-              "duration": 305699,
-              "error_message": "TypeError: Cannot read properties of undefined (reading 'url')\n    at Base.<anonymous> (C:\\Users\\Erlla\\OneDrive\\Documents\\QA\\BlazeDemo147ADV-1\\BlazeDemo147Adv\\steps\\comprar_passagem.steps.js:11:40)"
+              "status": "passed",
+              "duration": 1833321799
             }
           },
           {
@@ -709,8 +705,8 @@
               "location": "steps\\comprar_passagem.steps.js:15"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 9007799
             }
           },
           {
@@ -722,8 +718,8 @@
               "location": "steps\\comprar_passagem.steps.js:19"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 16671399
             }
           },
           {
@@ -735,8 +731,8 @@
               "location": "steps\\comprar_passagem.steps.js:24"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 400560599
             }
           },
           {
@@ -748,8 +744,8 @@
               "location": "steps\\comprar_passagem.steps.js:83"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 36876199
             }
           },
           {
@@ -761,8 +757,8 @@
               "location": "steps\\comprar_passagem.steps.js:40"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 4078100
             }
           },
           {
@@ -774,8 +770,8 @@
               "location": "steps\\comprar_passagem.steps.js:44"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 2718375000
             }
           },
           {
@@ -787,8 +783,8 @@
               "location": "steps\\comprar_passagem.steps.js:40"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 28765699
             }
           },
           {
@@ -800,8 +796,8 @@
               "location": "steps\\comprar_passagem.steps.js:49"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 14943999
             }
           },
           {
@@ -813,8 +809,8 @@
               "location": "steps\\comprar_passagem.steps.js:53"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 11589699
             }
           },
           {
@@ -826,8 +822,8 @@
               "location": "steps\\comprar_passagem.steps.js:57"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 52598899
             }
           },
           {
@@ -839,8 +835,8 @@
               "location": "steps\\comprar_passagem.steps.js:24"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 632059199
             }
           },
           {
@@ -852,8 +848,8 @@
               "location": "steps\\comprar_passagem.steps.js:40"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 48992599
             }
           },
           {
@@ -865,8 +861,8 @@
               "location": "steps\\comprar_passagem.steps.js:69"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 4387299
             }
           },
           {
@@ -878,8 +874,8 @@
               "location": "steps\\comprar_passagem.steps.js:74"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 3232199
             }
           },
           {
@@ -887,7 +883,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 6343399
+              "duration": 12455900
             }
           }
         ],
