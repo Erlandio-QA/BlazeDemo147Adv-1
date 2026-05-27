@@ -1,4 +1,4 @@
-const { setWorldConstructor} = require('@cucumber/cucumber') // adicionamos World para importar a classe
+const { setWorldConstructor, World} = require('@cucumber/cucumber') // adicionamos World para importar a classe
 const { chromium, firefox, webkit } = require('@playwright/test')
 const HomePage = require('../pages/home.page')
 const ReservePage = require('../pages/reserve.page' )
@@ -6,7 +6,7 @@ const PurchasePage = require('../pages/purchase.page')
 const ConfirmationPage = require('../pages/confirmation.page' )
 
 // aqui tbm
-class Base{
+class Base extends World {
   async open_browser () {
     const browsers = { chromium, firefox, webkit }
     const browser_name = process.env.BROWSER || 'chromium'

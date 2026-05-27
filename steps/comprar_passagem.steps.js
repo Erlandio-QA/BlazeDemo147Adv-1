@@ -9,6 +9,11 @@ const { expect } = require('@playwright/test')
  
 Given('que estou no site Blazedemo', async function () {
     await this.page.goto(this.homePage.url) // abre o browser neste endereço
+
+    //screenshot
+    const screenshot = await this.page.screenshot({ fullPage: true })
+    await this.attach(screenshot, 'image/png')
+
     await this.homePage.verificar_mensagem_boas_vindas() // confirma se aparece a mensagem inicial
 });
  
